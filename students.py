@@ -1,0 +1,17 @@
+STUDENTS = {
+    1:  "Sara Elashmawy",
+    2:  "Raghad Tarek",
+    3:  "Menna Selim",
+    4:  "Nour Ali",
+    5:  "Youssef Ibrahim",
+    6:  "Mona Samir",
+    7:  "Karim Tarek",
+    8:  "Layla Mahmoud",
+    9:  "Hassan Fathy",
+    10: "Dina Wael",
+    11: "Tamer Nabil",
+    12: "Rania Sherif",
+    13: "Bassem Adel",
+    14: "Heba Mostafa",
+    15: "Walid Gamal",
+}

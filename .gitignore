@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Output folders
+outputs/
+attendance_records/
+
+# Dataset / images
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
